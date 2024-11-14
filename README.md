@@ -9,6 +9,7 @@
 ### 1. Create (Tambah Data Mahasiswa)
 - **Screenshot Tampilan**:
   - Ketika kita memilih tombol `Tambah Mahasiswa`
+
     <img src="read-mhs.png" alt="Screenshot Awal" width="300"/>
     maka:
   - *Screenshot awal* menunjukkan form "Tambah Mahasiswa" yang bisa diisi dengan data (nama dan jurusan). Disini saya menggunakan nama `athifa nathania` dan jurusan `teknik infor`
