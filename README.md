@@ -86,10 +86,13 @@
 ### 4. Delete (Hapus Data Mahasiswa)
 - **Screenshot Tampilan**:
   - *Screenshot awal* menunjukkan kotak dialog konfirmasi yang muncul saat pengguna menekan tombol "Hapus". Dialog ini memiliki dua opsi: "Tidak" dan "Ya".
+
     <img src="del-mhs(1).png" alt="Screenshot Konfirmasi Hapus" width="300"/>
   - *Screenshot tambahan* memperlihatkan bahwa saat tombol "Tidak" ditekan, penghapusan dibatalkan, dan tidak ada perubahan pada data mahasiswa.
+
     <img src="del-mhs(2).png" alt="Screenshot Konfirmasi Tidak" width="300"/>
   - *Screenshot akhir* menunjukkan hasil ketika tombol "Ya" ditekan, dan data berhasil dihapus dari list.
+
     <img src="del-mhs(3).png" alt="Screenshot Konfirmasi Ya" width="300"/> <img src="del-mhs-success.png" alt="Screenshot Berhasil Hapus" width="300"/> 
 
 - **Proses yang terjadi**:
