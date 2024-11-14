@@ -39,7 +39,7 @@
 
 ### 2. Read (Tampilkan Data)
 - **Screenshot Tampilan**:
-  - Menunjukkan tampilan list data mahasiswa yang sudah ditambahkan.
+  - Menunjukkan tampilan list data mahasiswa yang sudah ditambahkan. (ini tampilan sebelum di create data)
     <img src="read-mhs.png" alt="Screenshot Tampil Data" width="300"/>
 - **Proses yang terjadi**:
   - Fungsi `getMahasiswa()` dipanggil di `ngOnInit()` untuk mengambil data mahasiswa saat halaman pertama kali dimuat.
