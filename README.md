@@ -4,8 +4,7 @@
 #### Shift Lama : D
 
 ---
-# Tugas 8 - Cara Kerja Proses CRUD Data Mahasiswa - Aplikasi Ionic
-Berikut penjelasan lengkap berdasarkan screenshot yang ada di file **ss crud.pdf**:
+# Tugas 8 - Cara Kerja Proses CRUD Data Mahasiswa - Ionic
 
 ### 1. Create (Tambah Data Mahasiswa)
 - **Screenshot Tampilan**:
