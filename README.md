@@ -54,7 +54,7 @@
   ```
 
 ### 3. Update (Edit Data Mahasiswa)
-- **Screenshot Penjelasan**:
+- **Screenshot Tampilan**:
   - *Screenshot awal* memperlihatkan form edit diisi dengan data yang diubah. Disini saya mengubah data jurusan yang tadinya `teknik infor` menjadi `teknik informatika`
     <img src="update-mhs(1).png" alt="Screenshot Update Data" width="300"/> <img src="update-mhs(2).png" alt="Screenshot Update Data" width="300"/>
   - *Screenshot akhir* menunjukkan data mahasiswa yang sudah diperbarui.
@@ -83,10 +83,8 @@
   }
   ```
 
-Berikut adalah penjelasan lengkap untuk proses **Delete (Hapus Data Mahasiswa)**, termasuk ketika pengguna memilih opsi "Tidak":
-
 ### 4. Delete (Hapus Data Mahasiswa)
-- **Screenshot Penjelasan**:
+- **Screenshot Tampilan**:
   - *Screenshot awal* menunjukkan kotak dialog konfirmasi yang muncul saat pengguna menekan tombol "Hapus". Dialog ini memiliki dua opsi: "Tidak" dan "Ya".
     <img src="del-mhs(1).png" alt="Screenshot Konfirmasi Hapus" width="300"/>
   - *Screenshot tambahan* memperlihatkan bahwa saat tombol "Tidak" ditekan, penghapusan dibatalkan, dan tidak ada perubahan pada data mahasiswa.
